@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Frases Celebres CGM</string>
+    <string name="nombre">nombre</string>
+    <string name="frase">frase</string>
+    <string name="generar_numero">Generar Numero</string>
+    <string name="mostrar_frase">Mostrar Frase</string>
+    <string name="imagenautor">ImagenAutor</string>
+    <string name="frase1">\"SE NECESITAN DOS AÑOS PARA APRENDER A HABLAR Y SESENTA PARA APRENDER A CALLAR\".</string>
+    <string name="nombre1">- Ernest Hemingway</string>
+    <string name="frase2">\"TODOS LOS NIÑOS NACEN ARTISTAS. EL PROBLEMA ES CÓMO SEGUIR SIENDO ARTISTAS AL CRECER\".</string>
+    <string name="nombre2">- Pablo Picasso</string>
+    <string name="frase3">\"LA PLUMA ES LA LENGUA DEL ALMA\".</string>
+    <string name="nombre3">- Miguel de Cervantes</string>
+    <string name="textviewNumero">1</string>
+</resources>
